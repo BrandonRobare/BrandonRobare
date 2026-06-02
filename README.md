@@ -30,4 +30,5 @@ Every project has a README, a Wiki, and diagrams. Where a project has tests, a G
 ### Reach me
 
 - Email: ber831004@gmail.com
+- LinkedIn: [in/brandon-robare](https://www.linkedin.com/in/brandon-robare)
 - GitHub: [@BrandonRobare](https://github.com/BrandonRobare)
