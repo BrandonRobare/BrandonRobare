@@ -22,11 +22,6 @@ Every project has a README, a Wiki, and diagrams. Where a project has tests, a G
 - **Tools:** Git, GitHub Actions, Make, pytest, SQLite, ncurses
 - **Topics:** data structures, design patterns, socket programming, interpreters, relational schema design
 
-### GitHub
-
-![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonRobare&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonRobare&layout=compact&hide_border=true)
-
 ### Reach me
 
 - Email: brandon.e.robare@gmail.com
